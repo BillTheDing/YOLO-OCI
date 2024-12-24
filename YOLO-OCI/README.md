@@ -2,7 +2,7 @@
 # YOLO-OCI
 
 ## Introduction
-YOLO-FaceV2: A Scale and Occlusion Aware Face Detector    
+YOLO-OCI: Enhanced Instance Segmentation for Dense Silkworm Counting in Agricultural Environments    
 *[https://arxiv.org/abs/2208.02019](https://arxiv.org/abs/2208.02019)*  
 
 ## Framework Structure
