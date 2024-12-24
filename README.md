@@ -7,7 +7,9 @@ YOLO-OCI: Enhanced Instance Segmentation for Dense Silkworm Counting in Agricult
 
 ## Framework Structure
 ![](YOLO-OCI/images/yolov10-OCI.jpg)
+## CloAttention
 ![](YOLO-OCI/images/CloAttention.jpg)
+## ODConv
 ![](YOLO-OCI/images/ODConv.jpg)
 ![](YOLO-OCI/images/a.jpg)
 ![](YOLO-OCI/images/b.jpg)
