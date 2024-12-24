@@ -30,22 +30,6 @@ pip install -r requirements.txt
 ```
 
 ## Step-Through Example
-### Installation
-Get the code.    
-```shell
-git clone https://github.com/Krasjet-Yu/YOLO-FaceV2.git
-```
-
-### Dataset
-Download the [WIDER FACE](http://shuoyang1213.me/WIDERFACE/) dataset. Then convert it to YOLO format.
-```shell
-# You can modify convert.py and voc_label.py if needed.
-python3 data/convert.py
-python3 data/voc_label.py
-```
-
-## Preweight
-The link is [yolo-facev2s.pt](https://github.com/Krasjet-Yu/YOLO-FaceV2/releases/download/v1.0/preweight.pt)
 
 
 ### Training
