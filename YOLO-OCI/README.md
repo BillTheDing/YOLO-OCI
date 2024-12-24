@@ -3,7 +3,7 @@
 
 ## Introduction
 YOLO-OCI: Enhanced Instance Segmentation for Dense Silkworm Counting in Agricultural Environments    
-*[https://arxiv.org/abs/2208.02019](https://arxiv.org/abs/2208.02019)*  
+
 
 ## Framework Structure
 ![](images/yolov10-OCI.jpg)
