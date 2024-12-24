@@ -15,6 +15,8 @@ YOLO-OCI: Enhanced Instance Segmentation for Dense Silkworm Counting in Agricult
 ![](YOLO-OCI/images/b.jpg)
 ![](YOLO-OCI/images/c.jpg)
 ![](YOLO-OCI/images/d.jpg)
+## Innner-IoU
+![](YOLO-OCI/images/Inner-IoU.tif)
 
 ## Environment Requirments
 Create a Python Virtual Environment.   
