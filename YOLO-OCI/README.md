@@ -1,5 +1,5 @@
 
-# YOLO-FaceV2
+# YOLO-OCI
 
 ## Introduction
 YOLO-FaceV2: A Scale and Occlusion Aware Face Detector    
